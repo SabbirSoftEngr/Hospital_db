@@ -61,6 +61,6 @@ INSERT INTO Patients VALUES (5, 'Roman', 35, 'Male', '01986-125125');
 --Insert some Dummy Data into Appointments
 INSERT INTO Appointments VALUES (101, '2024-12-12', '12:00:00', 'Complete', 1, 1);
 INSERT INTO Appointments VALUES (102, '2024-12-18', '11:00:00', 'Complete', 2, 2);
-INSERT INTO Appointments VALUES (103, '2025-01-12', '15:00:00', 'Incomplete', 3, 3);
-INSERT INTO Appointments VALUES (104, '2025-02-13', '18:00:00', 'Incomplete', 4, 4);
-INSERT INTO Appointments VALUES (105, '2025-03-25', '14:00:00', 'Incomplete', 5, 5);
+INSERT INTO Appointments VALUES (103, '2025-01-12', '15:00:00', 'Scheduled', 3, 3);
+INSERT INTO Appointments VALUES (104, '2025-02-13', '18:00:00', 'Scheduled', 4, 4);
+INSERT INTO Appointments VALUES (105, '2025-03-25', '14:00:00', 'Scheduled', 5, 5);
